@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ESE2013 Warmup</string>
+    <string name="action_settings">Settings</string>
+    <string name="form_textfield_text">Please enter text</string>
+    <string name="form_button_submit">Send</string>
+    <string name="title_activity_display_text">Your Text</string>
+
+</resources>
